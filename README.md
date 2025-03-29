@@ -22,7 +22,7 @@ This project analyzes the impact of different Spark optimizations on query execu
 - **Caching** significantly reduces query time by avoiding disk I/O.
 - **Partitioning** improves performance only when queries filter on partition columns.
 - **Parquet format** enhances query efficiency by enabling columnar storage and predicate pushdown.
-- **Jupyter Notebook and Google Colab: this project also identify query time differ based on platform. In my case jupyter notebook query running time was lower. 
+- **Jupyter Notebook and Google Colab:** this project also identify query time differ based on platform. In my case jupyter notebook query running time was lower. 
 
 ## Running Spark on Jupyter Notebook
 To set up and run Spark on Jupyter Notebook, follow these steps:
