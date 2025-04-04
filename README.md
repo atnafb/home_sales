@@ -2,7 +2,7 @@
 
 ## Overview
 This repository documents the analysis of query execution time in Apache Spark, including the impact of caching and partitioning on performance. The project was executed using Google Colab and Jupyter Notebook with Apache Spark. 
-The 
+
 
 ## Tools Used
 - **Jupyter Notebook and Google Colab**: Used for executing Spark queries locally.
